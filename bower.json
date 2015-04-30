@@ -1,0 +1,18 @@
+{
+  "name": "app1",
+  "version": "0.0.0",
+  "authors": [
+    "Satit Rianpit <siteslave@msn.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lumx": "~0.3.31"
+  }
+}
